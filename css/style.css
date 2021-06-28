@@ -38,12 +38,15 @@ ul{
 th{
     background-color: royalblue;
 }
+.sub{
+    background-color: turquoise;
+    table-layout: auto; 
+    
 
-.img-footer-1{
-    width: 312px;
-    height: 208px;
+}
+
+img-didascalia{ 
     background-image: url(../img/monitor.jpg);
-    background-size: cover;
     display: block;
     margin-top: 15px;
 }
