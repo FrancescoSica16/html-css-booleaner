@@ -21,7 +21,7 @@ header{
 }
 
 span{
-    ;
+    
     color: rgba(75, 70, 70, 0.658);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -34,4 +34,16 @@ sottolineato{
 }
 ul{
     padding-inline-start: 15px;
+}
+th{
+    background-color: royalblue;
+}
+
+.img-footer-1{
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    display: block;
+    margin-top: 15px;
 }
